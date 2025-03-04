@@ -2,10 +2,10 @@
 
 Nazwa organizacji: Uczelnia Wyższa "EduSmart".
 
-Charakterystyka organizacji:
+## Charakterystyka organizacji:
 EduSmart to uczelnia wyższa oferująca różnorodne programy studiów licencjackich, magisterskich i podyplomowych. Aktualnie zarządzanie programami studiów oraz planami zajęć odbywa się manualnie przez administrację uczelni, co powoduje częste błędy w harmonogramach oraz utrudnia studentom i wykładowcom dostęp do aktualnych informacji.
 
-Główni uczestnicy procesu:
+## Główni uczestnicy procesu:
 
 Student: Osoba korzystająca z systemu w celu sprawdzenia programu studiów i planu zajęć.
 
@@ -19,7 +19,7 @@ System zarządzania uczelnią: Automatyczny system obsługujący programy studi�
  
 Proces biznesowy: Obsługa programu studiów i planów zajęć (od dodania nowego programu po publikację harmonogramu).
 
-Główne kroki procesu:
+## Główne kroki procesu:
 
 Administrator aktualizuje program studiów i listę dostępnych kursów.
 
@@ -31,7 +31,7 @@ Studenci mają dostęp do planu zajęć oraz szczegółowych informacji o kursac
 
 W razie zmian, system aktualizuje harmonogram i powiadamia użytkowników.
 
-Problemy biznesowe:
+## Problemy biznesowe:
 
 Ręczne planowanie zajęć prowadzi do kolizji w harmonogramach.
 
@@ -51,7 +51,7 @@ Powiadomienia o zmianach w planie zajęć.
 
 # 3. Kontekstowy biznesowy diagram przypadków użycia
 
-Aktorzy:
+## Aktorzy:
 
 Student.
 
@@ -61,7 +61,7 @@ Administrator systemu.
 
 System zarządzania uczelnią.
 
-Przypadki użycia:
+## Przypadki użycia:
 
 Przeglądaj program studiów: Student przegląda dostępne kursy.
 

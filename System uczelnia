@@ -1,4 +1,4 @@
-#1. Opis organizacji
+# 1. Opis organizacji
 
 Nazwa organizacji: Uczelnia Wyższa "EduSmart".
 
@@ -15,8 +15,8 @@ Administrator systemu: Pracownik uczelni zarządzający programem studiów i har
 
 System zarządzania uczelnią: Automatyczny system obsługujący programy studiów oraz plany zajęć.
 
-#2. Opis kontekstu dziedziny problemowej
-
+# 2. Opis kontekstu dziedziny problemowej
+ 
 Proces biznesowy: Obsługa programu studiów i planów zajęć (od dodania nowego programu po publikację harmonogramu).
 
 Główne kroki procesu:
@@ -49,7 +49,7 @@ Ułatwienie dostępu do aktualnych informacji dla studentów i wykładowców.
 
 Powiadomienia o zmianach w planie zajęć.
 
-#3. Kontekstowy biznesowy diagram przypadków użycia
+# 3. Kontekstowy biznesowy diagram przypadków użycia
 
 Aktorzy:
 

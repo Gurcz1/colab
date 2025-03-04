@@ -6,7 +6,7 @@ Nazwa organizacji: Sieć Restauracji "TastyBites".
 
 TastyBites to sieć restauracji oferująca posiłki na miejscu oraz zamówienia na wynos i z dostawą. Restauracja obsługuje klientów indywidualnych oraz firmy, oferując różne opcje płatności i promocje lojalnościowe. Obecnie realizacja zamówień odbywa się manualnie przez kelnerów i telefonicznie, co powoduje długie czasy oczekiwania oraz błędy w zamówieniach.
 
-Główni uczestnicy procesu:
+## Główni uczestnicy procesu:
 
 Klient: Osoba składająca zamówienie w lokalu lub online.
 

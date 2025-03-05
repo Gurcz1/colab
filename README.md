@@ -2,3 +2,5 @@
 ]https://enzomind.com/files/uwm/wyklady/PSI/cw01_Organizacyjne_PSI/cw00_PSI_harmonogram_cw.pdf
 https://enzomind.com/files/uwm/wyklady/PSI/cw01_Organizacyjne_PSI/cw01_PSI_projekty_propozycja1.pdf
 https://enzomind.com/files/uwm/wyklady/PSI/cw01_Organizacyjne_PSI/cw01_PSI_wprowadzenie.pdf
+
+https://enzomind.com/files/uwm/wyklady/PSI/cwiczenia.txt

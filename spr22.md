@@ -4,7 +4,6 @@ Kucharz
 Administrator
 Klient
 Dostawca
-Sprzataczka
 Zmywacz
 
 Scenariusz:
@@ -14,3 +13,8 @@ Scenariusz:
 4.System wyysla zamowienia na kuchnie.
 5.Kuchnia zaczyna robic zamowinie.
 6.Pracownik wydaje zamowienia do odbioru.
+
+Rozszerzenia:
+1A.Klient zlozyl zamowienie przez telefon.
+6A.Dostawca odbiera zamowienia.
+

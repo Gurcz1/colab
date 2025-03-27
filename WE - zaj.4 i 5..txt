@@ -1,0 +1,33 @@
+Wariant 1.
+-----------
+1) Napisaæ polecenie (lub ich zestaw), które: 
+- wyszukuje wszystkie pliki "znakowe" w katalogu /dev o nazwach zaczynaj¹cych siê na jedn¹ z liter: f,l,m - ich nazwy zapisuje do pliku ZNAKI;
+- do tego pliku dopisuje tekst "Razem", podlicza iloœæ takich plików i j¹ dopisuje do tego samego pliku.
+2) Co to jest zmienna œrodowiskowa?
+
+
+
+Wariant 2.
+-----------
+1) Napisaæ polecenie (lub ich zestaw), które:
+- podlicza - ile plików typu katalog jest w katalogu /etc - do poziomu podpodkatalogów (czyli przeszukaniu podlegaj¹ te¿ podkatalogi) - wynik zapisuje do pliku DANE;
+- wyszukuje nazwy plików "zwyk³ych" w Pañstwa katalogu domowym, które by³y zmieniane w ci¹gu ostatnich trzech dni - ich nazwy dopisuje do pliku DANE.
+2) Czy ze strumeniem WE jest zwi¹zane pojêcie i-wêze³?
+
+
+
+Wariant 3.
+-----------
+1) Napisaæ polecenie (lub ich zestaw), które:
+- wyszukuje w katalogu /home wszystkie podkatalogi do poziomu pod-, o nazwach zaczynaj¹cych siê na jedn¹ z liter: i,s - ich nazwy wyœwietla na konsoli;
+- do pliku WYNIK zapisuje tekst "Zalogowanych jest:", nastêpnie dopisuje do pliku iloœæ u¿ytkowników zalogowanych w danej chwili.
+2) Co jest pojêciem bardziej ogólnym - pow³oka czy œrodowisko? 
+
+
+
+Wariant 4.
+-----------
+1) Napisaæ polecenie (lub ich zestaw), które:
+- wyszukuje w podkatalogu /etc (bez przeszukiwania podkatalogów) wszystkie pliki typu dowi¹zanie - podlicza - ile ich jest, wynik zapisuje do pliku WYSZUKANE;
+- dopisuje tekst "Dane z dnia:" i bie¿¹c¹ datê do tego pliku.
+2) Co to jest zmienna pow³oki?
